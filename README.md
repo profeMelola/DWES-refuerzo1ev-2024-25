@@ -1,4 +1,13 @@
-# Ejercicios refuerzo 1ev - Jakarta EE
+# Ejercicios refuerzo primera evaluación
+
+![image](https://github.com/user-attachments/assets/92052677-310e-4711-a604-8e3b5535908f)
+
+- Antes de sumergirnos en Spring, es fundamental entender los conceptos fundamentales de las aplicaciones empresariales web con Java usando Jakarta EE. 
+
+- Jakarta EE  es el estándar base sobre el que se construyen muchos frameworks como Spring.
+
+- Este conocimiento les permitirá no solo utilizar Spring con mayor eficacia, sino también entender las abstracciones que ofrece y resolver problemas complejos con un enfoque fundamentado en estándares.
+
 
 ___
 
