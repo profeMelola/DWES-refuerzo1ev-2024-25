@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/92052677-310e-4711-a604-8e3b5535908f)
 
-- Antes de sumergirnos en Spring, es fundamental entender los conceptos fundamentales de las aplicaciones empresariales web con Java usando Jakarta EE. 
+- Antes de sumergirnos en Spring en la UT05, es fundamental entender los conceptos fundamentales de las aplicaciones empresariales web con Java usando Jakarta EE. 
 
 - Jakarta EE  es el estándar base sobre el que se construyen muchos frameworks como Spring.
 
